@@ -1,0 +1,16 @@
+{
+  "name": "sample-node-app",
+  "version": "1.0.0",
+  "description": "ample Node App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "build": ""
+  },
+  "author": "Suyash Tripathi",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
